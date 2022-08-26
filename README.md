@@ -1,2 +1,2 @@
-# Order-Summary-Component_files
+# Order-Summary-Component
 Order Summary Component
